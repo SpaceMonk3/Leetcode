@@ -22,3 +22,5 @@ class Solution:
                 hmap[nums[i]] = 1
         
         return False
+
+        #need to check other approaches such as sorting, hashset (python set), and their time and space complexity
