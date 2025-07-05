@@ -4,7 +4,6 @@ Repo to keep track of Leetcode progress and help me out with my procrastination 
 Profile: https://leetcode.com/u/SpaceMonk3/
 
 ## NeetCode 150 Checklist
-**Progress: 6/150 problems solved (4%)**
 
 ### Arrays & Hashing
 - [x] ~~Contains Duplicate~~
