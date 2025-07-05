@@ -7,8 +7,8 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 
 ### Arrays & Hashing
 - [x] ~~Contains Duplicate~~
-- [x] Valid Anagram
-- [x] Two Sum
+- [x] ~~Valid Anagram~~
+- [x] ~~Two Sum~~
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
@@ -23,13 +23,13 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Trapping Rain Water
 
 ### Sliding Window
-- [x] Longest Substring Without Repeating Characters
+- [x] ~~Longest Substring Without Repeating Characters~~
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
 
 ### Stack
-- [x] Valid Parentheses
+- [x] ~~Valid Parentheses~~
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
@@ -47,7 +47,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Median of Two Sorted Arrays
 
 ### Linked List
-- [x] Merge Two Sorted Lists
+- [x] ~~Merge Two Sorted Lists~~
 - [ ] Reorder List
 - [ ] Remove Nth Node From End of List
 - [ ] Copy List With Random Pointer
