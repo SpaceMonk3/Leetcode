@@ -6,9 +6,9 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 ## NeetCode 150 Checklist
 
 ### Arrays & Hashing
-- [x] Contains Duplicate
-- [x] Valid Anagram
-- [x] Two Sum
+- [x] <span style="color:green;text-decoration:line-through">Contains Duplicate</span>
+- [x] <span style="color:green;text-decoration:line-through">Valid Anagram</span>
+- [x] <span style="color:green;text-decoration:line-through">Two Sum</span>
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
@@ -23,13 +23,13 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Trapping Rain Water
 
 ### Sliding Window
-- [x] Longest Substring Without Repeating Characters
+- [x] <span style="color:green;text-decoration:line-through">Longest Substring Without Repeating Characters</span>
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
 
 ### Stack
-- [x] Valid Parentheses
+- [x] <span style="color:green;text-decoration:line-through">Valid Parentheses</span>
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
@@ -47,7 +47,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Median of Two Sorted Arrays
 
 ### Linked List
-- [x] Merge Two Sorted Lists
+- [x] <span style="color:green;text-decoration:line-through">Merge Two Sorted Lists</span>
 - [ ] Reorder List
 - [ ] Remove Nth Node From End of List
 - [ ] Copy List With Random Pointer
