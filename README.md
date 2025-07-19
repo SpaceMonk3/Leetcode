@@ -9,7 +9,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [x] ~~Contains Duplicate~~
 - [x] ~~Valid Anagram~~
 - [x] ~~Two Sum~~
-- [ ] Group Anagrams
+- [x] ~~Group Anagrams~~
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
 - [ ] Valid Sudoku
