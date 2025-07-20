@@ -10,7 +10,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [x] ~~Valid Anagram~~
 - [x] ~~Two Sum~~
 - [x] ~~Group Anagrams~~ - Revist both brute force and optimal approach again 
-- [ ] Top K Frequent Elements
+- [x] ~~Top K Frequent Elements~~ - Revisit optimal approach 
 - [ ] Product of Array Except Self
 - [ ] Valid Sudoku
 - [ ] Encode and Decode Strings
