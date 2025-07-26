@@ -13,7 +13,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [x] ~~Top K Frequent Elements~~ - Revisit optimal approach 
 - [ ] Product of Array Except Self
 - [ ] Valid Sudoku
-- [ ] Encode and Decode Strings
+- [x] ~~Encode and Decode Strings~~ - Revist problem
 - [ ] Longest Consecutive Sequence
 
 ### Two Pointers
