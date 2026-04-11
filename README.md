@@ -17,13 +17,14 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Longest Consecutive Sequence
 
 ### Two Pointers
-- [ ] Valid Palindrome
+- [x] ~~Valid Palindrome~~
 - [ ] 3Sum
-- [ ] Container With Most Water
+- [x] ~~Container With Most Water~~
 - [ ] Trapping Rain Water
 
 ### Sliding Window
 - [x] ~~Longest Substring Without Repeating Characters~~
+- [x] ~~Best Time To Buy And Sell Stock~~
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
@@ -48,23 +49,24 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 
 ### Linked List
 - [x] ~~Merge Two Sorted Lists~~
+- [x] ~~Reverse Linked List~~
 - [ ] Reorder List
 - [ ] Remove Nth Node From End of List
 - [ ] Copy List With Random Pointer
 - [ ] Add Two Numbers
-- [ ] Linked List Cycle
+- [x] ~~Linked List Cycle~~
 - [ ] Find the Duplicate Number
 - [ ] LRU Cache
 - [ ] Merge K Sorted Lists
 - [ ] Reverse Nodes in K-Group
 
 ### Trees
-- [ ] Invert Binary Tree
-- [ ] Maximum Depth of Binary Tree
+- [x] ~~Invert Binary Tree~~
+- [x] ~~Maximum Depth of Binary Tree~~
 - [ ] Diameter of Binary Tree
 - [ ] Balanced Binary Tree
-- [ ] Same Tree
-- [ ] Subtree of Another Tree
+- [x] ~~Same Tree~~
+- [x] ~~Subtree of Another Tree~~
 - [ ] Lowest Common Ancestor of a Binary Search Tree
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Right Side View
@@ -123,7 +125,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Cheapest Flights Within K Stops
 
 ### 1-D Dynamic Programming
-- [ ] Climbing Stairs
+- [x] ~~Climbing Stairs~~
 - [ ] Min Cost Climbing Stairs
 - [ ] House Robber
 - [ ] House Robber II
@@ -163,7 +165,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Insert Interval
 - [ ] Merge Intervals
 - [ ] Non-overlapping Intervals
-- [ ] Meeting Rooms
+- [x] ~~Meeting Rooms~~
 - [ ] Meeting Rooms II
 - [ ] Minimum Interval to Include Each Query
 
@@ -179,10 +181,10 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 
 ### Bit Manipulation
 - [ ] Single Number
-- [ ] Number of 1 Bits
-- [ ] Counting Bits
-- [ ] Reverse Bits
-- [ ] Missing Number
+- [x] ~~Number of 1 Bits~~
+- [x] ~~Counting Bits~~
+- [x] ~~Reverse Bits~~
+- [x] ~~Missing Number~~
 - [ ] Sum of Two Integers
 - [ ] Reverse Integer
 
