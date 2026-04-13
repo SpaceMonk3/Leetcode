@@ -3,6 +3,12 @@ Repo to keep track of Leetcode progress and help me out with my procrastination 
 
 Profile: https://leetcode.com/u/SpaceMonk3/
 
+# Topics to revist
+- Time complexity of Bucket Sort
+- Climbing Stairs
+- Sum of Two Integers
+- Top K Frequent Elements
+
 ## NeetCode 150 Checklist
 
 ### Arrays & Hashing

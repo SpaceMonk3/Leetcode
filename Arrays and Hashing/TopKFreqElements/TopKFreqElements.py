@@ -48,7 +48,52 @@ class Solution:
                     if len(results) == k:
                         return results
         
+
+# hashmap & sorting approach from 4/12/2026. O(n log(n)) time complexity
+from collections import defaultdict 
+
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        freq = defaultdict(int)
+
+        for i in nums:
+            freq[i] += 1
         
+        #sorting dict in descending order by the 'values'
+        temp = dict(sorted(freq.items(), key=lambda item: item[1], reverse=True))
+
+        #converting to list for easy traversal
+        res = list(temp.keys())
+        result = []
+        for i in range(0, k):
+            result.append(res[i])
+
+        return result
+
+
+
+# bucket sort approach from 4/12/2026. O(n) time complexity
+from collections import defaultdict
+
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        freq = defaultdict(int)
+        for i in nums:
+            freq[i] += 1
+        
+        temp = [[] for _ in range(len(nums)+1)]
+        for key, value in freq.items():
+            temp[value].append(key)
+        
+        res = []
+        for r in range(len(temp)-1, -1, -1):
+            for c in range(0, len(temp[r])):
+                if len(res) < k:
+                    res.append(temp[r][c])
+                else: 
+                    return res
+
+        return res
 
 
         
