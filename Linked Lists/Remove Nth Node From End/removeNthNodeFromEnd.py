@@ -27,3 +27,29 @@ class Solution:
                 start -= 1
 
         return head
+
+
+# one pass solution: use two pointer and a sliding window approach
+# use a dummy node to cover edge cases such as "n = 1"
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        dummy = ListNode(0, head)
+        slow = dummy
+        fast = dummy
+
+        count = 0
+        while(count < n):
+            if fast.next:
+                fast = fast.next
+                count += 1
+            else:
+                break
+        
+        while(fast.next):
+            slow = slow.next
+            fast = fast.next
+        
+        slow.next = slow.next.next
+        
+        return dummy.next
+            
