@@ -8,6 +8,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - Climbing Stairs
 - Sum of Two Integers
 - Top K Frequent Elements
+- Find Minimum In Rotated Sorted Array
 
 ## NeetCode 150 Checklist
 
@@ -48,7 +49,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Binary Search
 - [ ] Search a 2D Matrix
 - [ ] Koko Eating Bananas
-- [ ] Find Minimum in Rotated Sorted Array
+- [x] ~~Find Minimum in Rotated Sorted Array~~
 - [ ] Search in Rotated Sorted Array
 - [ ] Time Based Key-Value Store
 - [ ] Median of Two Sorted Arrays
@@ -57,7 +58,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [x] ~~Merge Two Sorted Lists~~
 - [x] ~~Reverse Linked List~~
 - [ ] Reorder List
-- [ ] Remove Nth Node From End of List
+- [x] ~~Remove Nth Node From End of List~~
 - [ ] Copy List With Random Pointer
 - [ ] Add Two Numbers
 - [x] ~~Linked List Cycle~~
