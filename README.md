@@ -9,6 +9,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - Sum of Two Integers
 - Top K Frequent Elements
 - Find Minimum In Rotated Sorted Array
+- Search in Rotated Sorted Array
 
 ## NeetCode 150 Checklist
 
@@ -50,7 +51,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Search a 2D Matrix
 - [ ] Koko Eating Bananas
 - [x] ~~Find Minimum in Rotated Sorted Array~~
-- [ ] Search in Rotated Sorted Array
+- [x] ~~Search in Rotated Sorted Array~~
 - [ ] Time Based Key-Value Store
 - [ ] Median of Two Sorted Arrays
 
