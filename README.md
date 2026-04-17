@@ -10,6 +10,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - Top K Frequent Elements
 - Find Minimum In Rotated Sorted Array
 - Search in Rotated Sorted Array
+- Validate Binary Search Tree
 
 ## NeetCode 150 Checklist
 
@@ -79,7 +80,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Right Side View
 - [ ] Count Good Nodes in Binary Tree
-- [ ] Validate Binary Search Tree
+- [x] ~~Validate Binary Search Tree~~
 - [ ] Kth Smallest Element in a BST
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Binary Tree Maximum Path Sum
