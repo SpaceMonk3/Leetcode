@@ -15,14 +15,17 @@ class Solution:
             if not root:
                 return -1
             
+            # left node 
             left = helper(root.left)
             if left != -1:
                 return left
-
+            
+            # parent/root node + base case
             self.k -= 1
             if self.k == 0:
                 return root.val
             
+            # right node
             right = helper(root.right)
             if right != -1:
                 return right
