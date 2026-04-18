@@ -112,7 +112,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] N-Queens
 
 ### Graphs
-- [ ] Number of Islands
+- [x] ~~Number of Islands~~
 - [ ] Clone Graph
 - [ ] Max Area of Island
 - [ ] Pacific Atlantic Water Flow
