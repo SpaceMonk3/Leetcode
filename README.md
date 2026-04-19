@@ -12,6 +12,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - Search in Rotated Sorted Array
 - Validate Binary Search Tree
 - Kth Smallest Element In BST
+- Group Anagrams
 
 ## NeetCode 150 Checklist
 
