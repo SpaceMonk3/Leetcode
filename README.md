@@ -13,6 +13,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - Validate Binary Search Tree
 - Kth Smallest Element In BST
 - Group Anagrams
+- Encode Decode String
 
 ## NeetCode 150 Checklist
 
