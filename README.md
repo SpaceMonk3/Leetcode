@@ -14,6 +14,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - Kth Smallest Element In BST
 - Group Anagrams
 - Encode Decode String
+- Product Of Array Except Self
 
 ## NeetCode 150 Checklist
 
@@ -23,7 +24,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [x] ~~Two Sum~~
 - [x] ~~Group Anagrams~~ - Revist both brute force and optimal approach again 
 - [x] ~~Top K Frequent Elements~~ - Revisit optimal approach 
-- [ ] Product of Array Except Self
+- [x] ~~Product of Array Except Self~~
 - [ ] Valid Sudoku
 - [x] ~~Encode and Decode Strings~~ - Revist problem
 - [ ] Longest Consecutive Sequence
