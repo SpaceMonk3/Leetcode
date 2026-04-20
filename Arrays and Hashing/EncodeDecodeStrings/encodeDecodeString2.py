@@ -1,4 +1,4 @@
-# look at version 1 for cleaner code
+# look at the very bottom for cleaner and more intuitive code
 class Solution:
 
     def encode(self, strs: List[str]) -> str:
