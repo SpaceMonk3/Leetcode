@@ -15,6 +15,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - Group Anagrams
 - Encode Decode String
 - Product Of Array Except Self
+- Longest Consecutive Sequence
 
 ## NeetCode 150 Checklist
 
