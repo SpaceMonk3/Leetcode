@@ -27,7 +27,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [x] ~~Product of Array Except Self~~
 - [ ] Valid Sudoku
 - [x] ~~Encode and Decode Strings~~ - Revist problem
-- [ ] Longest Consecutive Sequence
+- [x] ~~Longest Consecutive Sequence~~
 
 ### Two Pointers
 - [x] ~~Valid Palindrome~~
