@@ -3,19 +3,20 @@ Repo to keep track of Leetcode progress and help me out with my procrastination 
 
 Profile: https://leetcode.com/u/SpaceMonk3/
 
-# Topics to revist
-- Time complexity of Bucket Sort
-- Climbing Stairs
-- Sum of Two Integers
-- Top K Frequent Elements
-- Find Minimum In Rotated Sorted Array
-- Search in Rotated Sorted Array
-- Validate Binary Search Tree
-- Kth Smallest Element In BST
-- Group Anagrams
-- Encode Decode String
-- Product Of Array Except Self
-- Longest Consecutive Sequence
+# Problems/Topics to revist
+1) Time complexity of Bucket Sort
+2) Climbing Stairs
+3) Sum of Two Integers
+4) Top K Frequent Elements
+5) Find Minimum In Rotated Sorted Array
+6) Search in Rotated Sorted Array
+7) Validate Binary Search Tree
+8) Kth Smallest Element In BST
+9) Group Anagrams
+10) Encode Decode String
+11) Product Of Array Except Self
+12) Longest Consecutive Sequence
+13) Longest Substring Without Repeating Characters
 
 ## NeetCode 150 Checklist
 
@@ -42,6 +43,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
+- [ ] Longest Repeating Character Replacement
 
 ### Stack
 - [x] ~~Valid Parentheses~~
