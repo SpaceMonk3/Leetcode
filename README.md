@@ -16,7 +16,8 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 10) Encode Decode String
 11) Product Of Array Except Self
 12) Longest Consecutive Sequence
-13) Longest Substring Without Repeating Characters
+13) Longest Substring Without Repeating Characters (Sliding Window)
+14) Longest Repeating Character Replacement (Sliding Window)
 
 ## NeetCode 150 Checklist
 
@@ -43,7 +44,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
 - [ ] Sliding Window Maximum
-- [ ] Longest Repeating Character Replacement
+- [x] ~~Longest Repeating Character Replacement~~
 
 ### Stack
 - [x] ~~Valid Parentheses~~
