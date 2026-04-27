@@ -18,7 +18,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 12) Longest Consecutive Sequence
 13) Longest Substring Without Repeating Characters (Sliding Window)
 14) Longest Repeating Character Replacement (Sliding Window)
-
+15) Graph Valid Tree
 ## NeetCode 150 Checklist
 
 ### Arrays & Hashing
@@ -95,7 +95,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Serialize and Deserialize Binary Tree
 
 ### Tries
-- [ ] Implement Trie (Prefix Tree)
+- [x] ~~Implement Trie (Prefix Tree)~~
 - [ ] Design Add and Search Words Data Structure
 - [ ] Word Search II
 
@@ -130,7 +130,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Course Schedule II
 - [ ] Redundant Connection
 - [ ] Number of Connected Components in an Undirected Graph
-- [ ] Graph Valid Tree
+- [x] ~~Graph Valid Tree~~
 - [ ] Word Ladder
 
 ### Advanced Graphs
