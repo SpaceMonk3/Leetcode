@@ -96,7 +96,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 
 ### Tries
 - [x] ~~Implement Trie (Prefix Tree)~~
-- [ ] Design Add and Search Words Data Structure
+- [x] ~~Design Add and Search Words Data Structure~~
 - [ ] Word Search II
 
 ### Heap / Priority Queue
@@ -187,7 +187,7 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Minimum Interval to Include Each Query
 
 ### Math & Geometry
-- [ ] Rotate Image
+- [x] ~~Rotate Image~~
 - [ ] Spiral Matrix
 - [ ] Set Matrix Zeroes
 - [ ] Happy Number
