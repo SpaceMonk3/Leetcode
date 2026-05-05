@@ -19,6 +19,8 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 13) Longest Substring Without Repeating Characters (Sliding Window)
 14) Longest Repeating Character Replacement (Sliding Window)
 15) Graph Valid Tree
+16) Maximum SubArray (Greedy)
+17) Jump Game (Greedy)
 ## NeetCode 150 Checklist
 
 ### Arrays & Hashing
@@ -169,8 +171,8 @@ Profile: https://leetcode.com/u/SpaceMonk3/
 - [ ] Regular Expression Matching
 
 ### Greedy
-- [ ] Maximum Subarray
-- [ ] Jump Game
+- [x] ~~Maximum Subarray~~
+- [x] ~~Jump Game~~
 - [ ] Jump Game II
 - [ ] Gas Station
 - [ ] Hand of Straights
